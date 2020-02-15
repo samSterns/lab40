@@ -1,6 +1,6 @@
 import React from 'react';
+import ReduxSpot from '../containers/ReduxSpot';
 
 export default function App() {
-  return <h1>Hello World</h1>;
+  return <ReduxSpot />;
 }
-  
